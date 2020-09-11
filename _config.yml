@@ -16,7 +16,7 @@
 title: Heja Eja!
 email: jonatanwardh@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  En båt!
+  En båt
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
